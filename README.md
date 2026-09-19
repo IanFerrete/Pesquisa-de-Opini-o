@@ -32,9 +32,9 @@ Desenvolvido por Ian, este programa em Python foi criado para atender à campanh
 
 Tecnologias Utilizadas
 
-\* \*\*Linguagem:\*\* Python 3
+Linguagem: Python 3
 
-\* \*\*Controle de Versão:\*\* Git \& GitHub
+Controle de Versão: Git \& GitHub
 
 
 
@@ -50,9 +50,9 @@ Regras de Negócio e Funcionalidades
 
 3\. Exibe ao final os totais exatos solicitados:
 
-&#x20;  \* Quantidade de respostas \*\*EXCELENTE\*\*.
+&#x20;  \* Quantidade de respostas EXCELENTE.
 
-&#x20;  \* Quantidade de respostas \*\*RUIM\*\*.
+&#x20;  \* Quantidade de respostas RUIM.
 
 
 

@@ -64,7 +64,7 @@ Como Executar o Programa
 
 
 
-1\. Certifique-se de ter o \*\*Python\*\* instalado em seu computador.
+1\. Certifique-se de ter o Python instalado em seu computador.
 
 2\. Baixe ou clone este repositório contendo o arquivo `app.py`.
 
